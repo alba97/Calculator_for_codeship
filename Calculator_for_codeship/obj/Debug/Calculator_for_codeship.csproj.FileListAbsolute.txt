@@ -1,0 +1,6 @@
+C:\Users\Algoritm\Documents\Visual Studio 2013\Projects\Calculator_for_codeship\Calculator_for_codeship\bin\Debug\Calculator_for_codeship.exe.config
+C:\Users\Algoritm\Documents\Visual Studio 2013\Projects\Calculator_for_codeship\Calculator_for_codeship\bin\Debug\Calculator_for_codeship.exe
+C:\Users\Algoritm\Documents\Visual Studio 2013\Projects\Calculator_for_codeship\Calculator_for_codeship\bin\Debug\Calculator_for_codeship.pdb
+C:\Users\Algoritm\Documents\Visual Studio 2013\Projects\Calculator_for_codeship\Calculator_for_codeship\obj\Debug\Calculator_for_codeship.csprojResolveAssemblyReference.cache
+C:\Users\Algoritm\Documents\Visual Studio 2013\Projects\Calculator_for_codeship\Calculator_for_codeship\obj\Debug\Calculator_for_codeship.exe
+C:\Users\Algoritm\Documents\Visual Studio 2013\Projects\Calculator_for_codeship\Calculator_for_codeship\obj\Debug\Calculator_for_codeship.pdb
