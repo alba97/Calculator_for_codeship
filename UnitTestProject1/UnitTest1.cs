@@ -9,12 +9,12 @@ namespace UnitTestProject1
     public class UnitTest1
     {
         [TestMethod]
-        public void test_Add_4and9_result13()
+        public void test_Add_11and9_result20()
         {
 
            Susu some =new Susu();
-           int result = some.Add(4, 9);
-           Assert.AreEqual(13,result);
+           int result = some.Add(11, 9);
+           Assert.AreEqual(20,result);
         }
 
         [TestMethod]
