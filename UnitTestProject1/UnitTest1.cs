@@ -14,7 +14,7 @@ namespace UnitTestProject1
 
            Susu some =new Susu();
            int result = some.Add(11, 9);
-           Assert.AreEqual(55,result);
+           Assert.AreEqual(20,result);
         }
 
         [TestMethod]
